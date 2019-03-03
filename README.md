@@ -1,12 +1,44 @@
-## beautiful things
+<span>
+rain while it’s still sunny
+</span>
 
-ios shortcuts<br/>
-rain while it’s still sunny<br/>
-unironically quaint beach houses<br/>
-macrame<br/>
-the color of swimming pools<br/>
-greeting cards from family members with excessive glitter<br/>
-t-shirts washed many times<br/>
-a day without a plan<br/>
-the oboe tuning a symphony<br/>
-imperfect emboridery<br/>
+<span>
+unironically quaint beach houses
+</span>
+
+<span>
+macrame
+</span>
+
+<span>
+the color of swimming pools
+</span>
+
+<span>
+greeting cards from family members with excessive glitter
+</span>
+
+<span>
+t-shirts washed many times
+</span>
+
+<span>
+a day without a plan
+</span>
+
+<span>
+an oboe tuning a symphony
+</span>
+
+<span>
+imperfect emboridery
+</span>
+
+<span>
+listening
+</span>
+
+<span>
+waking up to chirping birds
+</span>
+
