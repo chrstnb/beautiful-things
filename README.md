@@ -8,3 +8,5 @@ the color of swimming pools
 greeting cards from family members with excessive glitter
 t-shirts washed many times
 \n
+a day without a plan
+
