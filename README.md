@@ -9,4 +9,4 @@ greeting cards from family members with excessive glitter\
 t-shirts washed many times\
 a day without a plan\
 the oboe tuning a symphony\
-imperfect emborider\
+imperfect emboridery\
