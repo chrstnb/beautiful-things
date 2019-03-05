@@ -62,3 +62,7 @@ trader joe’s vegan chocolate chip cookies
 friends who help you unpack things
 </span>
 
+<span>
+statically typed programming languages
+</span>
+
