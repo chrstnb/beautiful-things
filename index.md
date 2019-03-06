@@ -1,3 +1,6 @@
+---
+layout: home
+---
 <span>
 rain while it’s still sunny
 </span>
