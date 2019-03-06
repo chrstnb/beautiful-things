@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: home
 ---
 <span>
 rain while it’s still sunny
