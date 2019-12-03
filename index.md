@@ -112,8 +112,3 @@ long breezy curtains
 <span>
 the swiss alps
 </span>
-
-<span>
-
-</span>
-
